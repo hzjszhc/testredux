@@ -1,0 +1,2 @@
+# testredux
+redux store connect 
